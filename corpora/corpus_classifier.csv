@@ -1,0 +1,250 @@
+description,Library,Benchmark,Service,Workflow,Other
+"Toolbox for developing pipelines for analysis of spectroscopy data. Includes code for loading Siemens spectroscopy data, and for spectral fitting/analysis.",0,0,0,1,0
+:tv: P2P chat powered by the web.,0,0,0,0,1
+A coverage and base/mapping quality evaluation tool for panel and whole exome next-generation sequencing,0,0,0,0,1
+ICC Ion Channel simulator,0,0,0,0,1
+"Code and data for WWW2020 paper ""Learning Contextualized Document Representations for Healthcare Answer Retrieval""",0,0,0,0,1
+"extract random-positioned data from gzip files with no penalty, including gzip tailing like with 'tail -f' !",0,0,0,0,1
+,0,0,0,0,1
+Spectrum sensing application for the VESNA platform,0,0,0,0,1
+"Fatty Acid Source Analysis (FASA); Argus, JP et al., 2018",0,0,0,0,1
+"Read, write, and interact with data in the Digital RF and Digital Metadata formats",0,0,0,0,1
+"Powerful event-bus optimized for high throughput in multi-threaded applications. Features: Sync and Async event publication, weak/strong references, event filtering, annotation driven",0,0,0,0,1
+VLog is a high-performance Datalog engine. It is highly memory efficient and can process large programs with thousands of rules.,0,0,0,0,1
+,0,0,0,0,1
+A Test Environment for HTTP Requests in R,0,0,0,0,1
+Some code for processing and analysing UK Biobank cardiac MR images.,0,0,0,0,1
+"Code for the paper ""Estimating the number and effect sizes of non-null hypotheses""",0,0,0,0,1
+"A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.",0,0,0,0,1
+,0,0,0,0,1
+,0,0,0,0,1
+FlowCutter submission to PACE 2016,0,0,0,0,1
+Whole-exome sequencing of either cancer patients’ germlines or tumors predicts tumor recurrence. ,0,0,0,0,1
+Adaptive Width KDE with Gaussian Kernels,0,0,0,0,1
+"Data, code and results for: ""Random measurement error: why worry? An example of cardiovascular risk factors""",0,0,0,0,1
+"A repository for data and scripts associated with the manuscript ""Is there such a thing as landscape genetics?""",0,0,0,0,1
+The purpose of this project is to build clinical decison support system on Integrative Medicine (IM) based on artificial intelligence.  The production could aid physicians to syndrome pattern diagnosis and clinical practise based on mordern medicine. ,0,0,0,0,1
+"Python code to generate the Toulouse Road Network dataset introduced in ""Image-Conditioned Graph Generation for Road Network Extraction""",0,0,0,0,1
+Evaluation of the Hospital Readmissions Reduction Program,0,0,0,0,1
+Scripts useful for working with bulk FlyBase data locally.,0,0,0,0,1
+Code to analyze the informational complexity of modern Western music,0,0,0,0,1
+"This repository contains the data I used for our papar ""Longitudinal changes in telomere length and associated genetic parameters in dairy cattle analysed using random regression models""",0,0,0,0,1
+"Security model and verified implementation of QUIC packet encryption in Low*, built over EverCrypt and EverParse.",0,0,0,0,1
+This repository contains Matlab programs that can efficiently perform a comprehensive list of 2D electromagnetic simulations based on the finite difference frequency domain (FDFD) technique,0,0,0,0,1
+Data and code repository for manuscript submitted to Gates Open Research,0,0,0,0,1
+ns3-gym - The Playground for Reinforcement Learning in Networking Research,0,0,0,0,1
+Linux kernel source tree,0,0,0,0,1
+,0,0,0,0,1
+3D force-directed graph component using ThreeJS/WebGL,0,0,0,0,1
+a database engine for SGX enclaves with virtual memory support ,0,0,0,0,1
+ExitLess services for SGX enclaves,0,0,1,0,0
+A Sage package for the Kunz polyhedron.,1,0,0,0,0
+some codes and notes about the backdoor listening on TCP-32764 in linksys WAG200G.,0,0,0,0,1
+Contribution of systemic and somatic factors to clinical response and resistance in urothelial cancer: an exploratory multi-omic analysis,0,0,0,0,1
+This code facilitates the recovery of a planar domain with a real algebraic boundary from a finite number of its generalized polarization tensors.,0,0,0,0,1
+"Implementations of edge (ED, EDColor, EDPF), line (EDLines), circle and low eccentric ellipse (EDCircles) detection algorithms.",0,0,0,0,1
+"An application for analysis of 5′ endpoints distribution in RNA sequencing datasets. This is particularly useful for techniques that capture 5′ monophosphorylated RNAs, such as 5PSeq, PARE-seq or GMUC. It may also be useful for ribosome profiling datasets and alike.The main workflow of fivepseq is intended for downstream analysis of alignment files to describe the distribution of 5′ endpoints of reads relative to translation start and stop sites, as well as relative to amino acids or codons. It also computes frame preference of 5′ endpoint distribution and captures periodicity patterns.",0,0,0,1,1
+,0,0,0,0,1
+Energy optimization of industrial robotic cells.,0,0,0,0,1
+Uncertainty Evaluation Tool for Linked Data sources,0,0,0,0,1
+Dataset and starting code for visual entailment dataset,0,0,0,0,1
+Tensorforce: a TensorFlow library for applied reinforcement learning,1,0,0,0,0
+Low-precision matrix multiplication,0,0,0,0,1
+"🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",0,0,0,0,1
+Amplicon sequencing analysis workflow using DADA2 and QIIME2,0,0,0,1,1
+🐑 Safe Changes for APIs,0,0,0,0,1
+:house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.,0,0,0,0,1
+pymia: A Python package for data handling and evaluation in deep learning-based medical image analysis,1,0,0,0,0
+Google Play Unofficial Python API,0,0,0,0,1
+De novo annotation of young retrotransposons,0,0,0,0,1
+Personalized cancer epitope discovery and peptide vaccine prediction pipeline,0,0,0,1,0
+EvoMaster Benchmark (EMB): a set of web/enterprise applications for experimentation in automated system testing,0,0,0,0,1
+Mirror of the OPNFV QTIP Project,0,0,0,0,1
+Stream Processing and Complex Event Processing Engine,0,0,0,0,1
+"Project skeleton for scientific software (C++ with Python interface). Note that this is a mirror repository, the active development is carried out on GitLab.",0,0,0,0,1
+High Resolution Time,0,0,0,0,1
+"🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨",0,0,0,0,1
+Specification of the LDBC Social Network Benchmark suite,0,0,0,0,1
+STREAM benchmark in Python,0,1,0,0,0
+Snakemake pipelines for nanopore sequencing data archiving and processing,0,0,0,1,0
+:octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion,0,0,0,0,1
+Python library for using asyncio in Qt-based applications.,1,0,0,0,0
+Curating Research Assets in Behavioral Sciences: A tutorial on organizing and curating research materials using RStudio & the Git version control system,0,0,0,0,1
+Offers mutliple ways to calculate numerical standard errors (NSE) of     univariate (or multivariate in some cases) time series.,0,0,0,0,1
+"An adversarial example library for constructing attacks, building defenses, and benchmarking both",1,1,0,0,1
+Tutorial for the analysis of scRNA-seq data in R,0,0,0,0,1
+automated photometry pipeline for small to medium-sized observatories,0,0,0,1,0
+"Benchmarking and metadata tracking for Python. Extensible, with distributed/cluster support.",0,0,0,0,1
+API Documentation for Python Projects,0,0,0,0,1
+"🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",0,0,0,0,1
+Microsoft REST API Guidelines,0,0,0,0,1
+:bar_chart: Cross-platform user-friendly xlsx library for C++11+,1,0,0,0,0
+A web app for environmental DNA metabarcoding analysis,0,0,0,0,1
+XLS: Accelerated HW Synthesis,0,0,0,0,1
+Personal Data Management business logic written in Smart Contracts,0,0,0,0,1
+":dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.",1,0,0,0,0
+Apache CXF,0,0,0,0,1
+Create and Manipulate BioCompute Objects,0,0,0,0,1
+A Python library for detecting and filtering profanity,1,0,0,0,0
+BLUE benchmark consists of five different biomedicine text-mining tasks with ten corpora.,0,1,0,0,0
+A C++17 message passing library based on MPI,1,0,0,0,0
+Toolkit to run Python benchmarks,0,1,0,0,0
+"A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.",0,0,0,1,0
+"Calibration for HST/WFC3, HST/ACS, and HST/STIS",0,0,0,0,1
+A HTTP API Server for the OrbitDB distributed peer-to-peer database,0,0,0,0,1
+An Async Bot/API wrapper for Twitch made in Python.,0,0,0,0,1
+"MTCNN face detection implementation for TensorFlow, as a PIP package.",1,0,0,0,0
+SoC-independent part of the iso7816 stack,0,0,0,0,1
+API for linked biological knowledge,0,0,0,0,1
+A MNIST-like fashion product database. Benchmark :point_down: ,0,0,0,0,1
+"Pipeline to find aberrant events in RNA-Seq data, useful for diagnosis of rare disorders",0,0,0,0,1
+CEED Benchmarks,0,0,0,0,1
+Open Astronomy Catalog API,0,0,0,0,1
+CEED Library: Code for Efficient Extensible Discretizations,0,0,0,0,1
+Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search,0,0,0,0,1
+A standalone and lightweight C library,1,0,0,0,0
+Docking benchmark 5 - cleaned and ready to use for HADDOCK,0,1,0,0,0
+"A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.",0,0,0,1,0
+Android Rubber Picker Library,0,0,0,0,1
+Gnocis is a system for the interactive and reproductible analysis and modelling of cis-regulatory DNA sequences in Python 3,0,0,0,0,1
+:monkey_face: A tool to test Swagger-powered APIs automatically through monkey testing and custom test suites,0,0,0,0,1
+Python toolkit for building restartable pipelines,0,0,0,1,0
+icclim: Python library for climate indices and climate indicators calculation.,1,0,0,0,0
+Python library to query and transform genomic data from indexed files,1,0,0,0,0
+Multi-robot Exploration Testbed,0,0,0,0,1
+An automated ChIP-seq pipeline using Nextfow,0,0,0,1,0
+Supervised Component Generalised Linear Regression for mixed models,0,0,0,0,1
+Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports and shiny app.,0,0,0,1,0
+"A basic benchmarking for insertion sort, merge sort and quicksort in C++.",0,1,0,0,0
+CakePHP: The Rapid Development Framework for PHP - Official Repository,0,0,1,0,1
+ParALleL frAmework for moDel selectIOn,0,0,0,0,1
+XLS: Accelerated HW Synthesis,0,0,0,0,1
+Web APIs for Django. 🎸,0,0,0,0,1
+:memo: This repository stores the swagger specifications of the openrouteservice API. Browse to swagger for a detailed overview.,0,0,1,0,0
+CUDA Finite Difference Library,0,0,0,0,1
+"Fast persistent recoverable log and key-value store + cache, in C# and C++.",0,0,0,0,1
+Official repository of open data MassBank records,0,0,0,0,1
+R package for analysis and visualisation of biological signals in weather radar data,1,0,0,0,0
+Package to obtain and analyze thousands of Brazilian economic time series ,0,0,0,0,1
+"BLOCKBENCH: A Framework for Analyzing Private Blockchains. Blockbench contains workloads for measuring the data processing performance, and workloads for understanding the performance of different layers of Blockchain systems. ",0,0,0,0,1
+Examples and Benchmarks for ODA API,0,0,0,0,1
+small R utility for mediation analysis,0,0,0,0,1
+Display tabular data in a visually appealing ASCII table format,0,0,0,0,1
+Python library to work with ConceptNet offline without the need for PostgreSQL,1,0,0,0,0
+"Collection of Verification Tasks (MOVED, please follow the link)",0,0,0,0,1
+abed: A command line tool for easily running machine learning benchmarks,0,1,0,0,1
+Apache Cordova Geolocation Plugin,0,0,0,0,1
+"Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.",0,0,0,0,1
+Easy to use library to bring Tensorflow on Apache Spark,1,0,0,0,0
+"Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask",0,0,0,0,1
+A pixel classification based multiplexed image segmentation pipeline,0,0,0,1,0
+"RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.",1,0,0,0,1
+Benchmarking synthetic data generation methods.,0,0,0,0,1
+JSON for Linked Data's documentation and playground site,0,0,0,0,1
+Get information about countries via a RESTful API,0,0,0,0,1
+fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.,0,0,0,0,1
+A high-performance Python port of libtcod.  Includes the libtcodpy module for backwards compatibility with older projects.,0,0,0,0,1
+Cortex: a Powerful Observable Analysis and Active Response Engine,0,0,0,0,1
+Freeze (package) Python programs into stand-alone executables,1,0,0,0,0
+The repository for codes developed to generated the Maize NC358 assemblies and analyses.,0,0,0,0,1
+Parallel solvers for sparse linear systems featuring multigrid methods.,0,0,0,0,1
+Deprecated see https://github.com/MHH-RCUG/nf_wochenende : A whole Genome/Metagenome Sequencing Alignment Pipeline in Python3,0,0,0,0,1
+Norwegian Correspondences,0,0,0,0,1
+A benchmarking framework for the Julia language,0,1,0,0,0
+Goodman Data Reduction Pipeline,0,0,0,0,1
+🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format,0,0,0,0,1
+A command-line benchmarking tool,0,1,0,0,0
+Bayesian Multi-Trait Multi-Environment for genomic selection[R package] [Dev version],1,0,0,0,0
+Mapping of the SimpleQuestions dataset to Wikidata,0,0,0,0,1
+R package substitute for the package mentioned in 'Discovering Statistics Using R',1,0,0,0,0
+Japanese morphological analysis engine written in pure Python,0,0,0,0,1
+Java API for GitHub,0,0,0,0,1
+Benchmark of a simple GraphQL server on popular spec implementations,0,0,0,0,1
+"A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.",0,0,0,0,1
+Apache Shiro,0,0,0,0,1
+Lasso method for the estimation of joint genetic effects in GWAS,0,0,0,0,1
+The official repository for the AiiDA code,0,0,0,1,0
+Fetch location and size of physical screens.,0,0,0,0,1
+Phenomanager,0,0,0,0,1
+Workflow engine for exploration of simulation models using high throughput computing,0,0,0,0,1
+Fastest Integer Compression,0,0,0,0,1
+Evaluate your word embeddings,0,0,0,0,1
+🔬 R package: aroma.seq: High-Throughput Sequence Analysis using the Aroma Framework,1,0,0,0,0
+API de l’application DicoTopo (https://dicotopo.cths.fr/),0,0,0,0,1
+"Useful python NLP tools (evaluation, GUI interface, tokenization)",0,0,0,0,1
+Mobile Genetic Elements Retrieving Tool,0,0,0,0,1
+Comparative Metatranscriptomics Workflow,0,0,0,0,1
+A flexible and extensible IPIF server,0,0,0,0,1
+STIX2 graph visualisation library in JS,1,0,0,0,1
+An extension of the Fisher Scoring Algorithm to combine PLS regression with GLM estimation in the multivariate context. Covariates can be grouped in themes.,0,0,0,0,1
+The analytical pipeline of the AL4 strain genome,0,0,0,1,0
+"Python version of Sudachi, a Japanese tokenizer.",0,0,0,0,1
+Frame profiler,0,0,0,0,1
+The code and other assorted files pertaining to my attempts to benchmark parallel Concurrent ML processing in a handful of languages,0,1,0,0,0
+Point based  and tiny object detection and localization code set of UCAS-VG,0,0,0,0,1
+Benchmarking Linear Assignment Problem Solvers,0,0,0,0,1
+"ROS packages for Dynamixel controllers, msgs, single_manager, toolbox, tutorials",1,0,0,0,0
+Big Data Pipelining For Java,0,0,0,0,1
+,0,0,0,0,1
+The PatchCamelyon (PCam) deep learning classification benchmark.,0,1,0,0,0
+A library for ML benchmarking. It's powerful.,1,1,0,0,0
+"A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",0,0,0,0,1
+Using bacon to generate a large number of new chronologies from existing Neotoma records.,0,0,0,0,1
+"Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks (DOI: https://doi.org/10.5281/zenodo.5879231) | Tutorial: https://actinia-org.github.io/actinia-core/ | Docker: https://hub.docker.com/r/mundialis/actinia-core",0,0,0,0,1
+"Pegasus Workflow Management System - Automate, recover, and debug scientific computations.",0,0,0,1,1
+An API documentation generator for JavaScript.,0,0,0,0,1
+Write scalable load tests in plain Python 🚗💨,0,0,0,0,1
+Compression Benchmark,0,0,0,0,1
+"Novel ultrafast suite for high-throughput & high-content multiparameter screening as in drug discovery. It has unique modules for QC, bias correction, similarity measurement, clustering and visualization. It can process hundreds of samples with many markers in a few hours not days & circumvents bath effect. It couples with any plate reader.",0,0,0,0,1
+benchmarking quantum circuit emulators for your daily research usage,0,1,0,0,0
+"PRAW, an acronym for ""Python Reddit API Wrapper"", is a python package that allows for simple access to Reddit's API.",1,0,0,0,0
+"A benchmark for Geometric Algebra libraries, library generators, and code optimizers.",1,1,0,0,0
+R interface for SEEK API (connection to FAIRDOMHub),0,0,0,0,1
+AMBER: Assessment of Metagenome BinnERs,0,0,0,0,1
+,0,0,0,0,1
+"REST API generator with Node.js, Express and Mongoose",0,0,0,0,1
+"A lightweight Python library for The Movie Database (TMDb) API. The TMDb API is a resource for developers to integrate movie, TV show and cast data along with posters or movie fan art.",1,0,0,0,0
+Open source Dota 2 data platform,0,0,0,0,1
+Python suite to construct benchmark machine learning datasets from the MIMIC-III 💊 clinical database. ,0,1,0,0,0
+"bids application for processing functional MRI data, robust to scanner, acquisition and age variability.",0,0,0,0,1
+This contains the dataset for comparing scRNA-seq analysis methods,0,0,0,0,1
+Collaborative Machine-Learning-Centric Data Analytics Using Workflows,0,0,0,0,1
+A Java library for communicating with the Twilio REST API and generating TwiML.,1,0,0,0,0
+A Programmatic Incremental Build System in Java,0,0,0,0,1
+Python client for iNaturalist,0,0,0,0,1
+REST API for Knot Service,0,0,0,0,1
+A ground-truth fuzzing benchmark suite based on real programs with real bugs.,0,1,0,0,1
+"Are We Fast Yet? Comparing Language Implementations with Objects, Closures, and Arrays",0,0,0,0,1
+A MATLAB application to automatize analysis of EEG data,0,0,0,0,1
+A Python wrapper around the OpenWeatherMap web API,0,0,0,0,1
+Across the Great Wall we can reach every corner in the world,0,0,0,0,1
+bisulfite sequencing pipeline from fastq to methylation reports,0,0,0,1,0
+Repository for documentation to support the IEEE 2791-2020 standard.  Please see our home page for communications/publications: ,0,0,0,0,1
+Desktop Application for modeling Zeebe Workflows with BPMN,0,0,0,0,1
+"DNAscan is a fast and efficient bioinformatics pipeline that allows for the analysis of DNA Next Generation sequencing data, requiring very little computational effort and memory usage.",0,0,0,1,1
+Repository for version control of the BrAPI specifications,0,0,0,0,1
+"Spine Toolbox is an open source Python package to manage data, scenarios and workflows for modelling and simulation. You can have your local workflow, but work as a team through version control and SQL databases.",1,0,0,1,0
+A taxonomic toolbelt for R,0,0,0,0,1
+The ultimate memory bandwidth benchmark,0,1,0,0,0
+"Lanczos Network, Graph Neural Networks, Deep Graph Convolutional Networks, Deep Learning on Graph Structured Data, QM8 Quantum Chemistry Benchmark, ICLR 2019",0,0,0,0,1
+"This repository contains the source code, documentation, and instalation instructions for the Flapjack API",0,0,0,0,1
+Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,0,0,0,1,1
+Source code of the Bgee pipeline used to build the Bgee database,0,0,0,1,1
+:evergreen_tree::ghost: Testing the phylogenetic reality of the living fossil with an EDBMM,0,0,0,0,1
+"An alternative EQA paradigm and informative benchmark + models (BMVC 2019, ViGIL 2019 spotlight)",0,1,0,0,0
+:globe_with_meridians: SOMperf: Self-organizing maps performance metrics and quality indices,0,0,0,0,1
+"Linked SPARQL Queries (LSQ): Framework for RDFizing triple store (web) logs and performing SPARQL query extraction, analysis and benchmarking in order to produce datasets of Linked SPARQL Queries",0,1,0,0,0
+"Nanopore demultiplexing, QC and alignment pipeline",0,0,0,1,1
+zUMIs: A fast and flexible pipeline to process RNA sequencing data with UMIs,0,0,0,1,0
+"FastAPI framework, high performance, easy to learn, fast to code, ready for production",0,0,0,0,1
+Language data store and linguistic query API,0,0,0,0,1
+A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges,0,0,0,0,1
+"Intelligent System for Analysis, Model Building And Rational Design.",0,0,0,0,1
+"Collection of Verification Tasks (MOVED, please follow the link)",0,0,0,0,1
+A benchmark framework for POWER and x86_64,0,1,0,0,0
+"A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",0,0,0,0,1
+A microbenchmark support library,1,1,0,0,0
+"Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology.",0,0,0,0,1
+Python package to extend Airflow functionality with CWL1.1 support,1,0,0,1,0
+Automated pipeline for amplicon sequence analysis ,0,0,0,1,0
+
