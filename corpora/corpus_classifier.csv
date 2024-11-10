@@ -53,6 +53,26 @@ Draw UpSet plots with Matplotlib,0,0,0,0,1
 COVID-19 Italia - Monitoraggio situazione,0,0,0,0,1
 :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.,1,0,0,0,0
 Repository for the Semantic Web Working Group at Vanderbilt University,0,0,0,0,1
+"Software repo for Team Expander Agent (Oregon State U., Institute for Systems Biology, and Penn State U.)",0,0,0,0,1
+WebDriver for Firefox,0,0,0,0,1
+INACTIVE - HTTP Holder-Of-Key Authentication Scheme,0,0,0,0,1
+,0,0,0,0,1
+"The Pytorch code of ""Distribution Consistency based Covariance Metric Networks for Few-shot Learning"", AAAI 2019.",0,0,0,0,1
+"Implementation of my paper ""Real-time Document Localization in Natural Images by Recursive Application of a CNN.""",0,0,0,0,1
+Detecting linear trend changes and point anomalies in data sequences: Simulation code,0,0,0,0,1
+Super timeline all the things,0,0,0,0,1
+Modular static malicious JavaScript detection system,0,0,0,0,1
+,0,0,0,0,1
+Google Research,0,0,0,0,1
+Python code to fuse multiple RGB-D images into a TSDF voxel volume.,0,0,0,0,1
+"Integrating the Best of TF into PyTorch, for Machine Learning, Natural Language Processing, and Text Generation.  This is part of the CASL project: http://casl-project.ai/",0,0,0,0,1
+Wiki.js | A modern and powerful wiki app built on Node.js,0,0,0,0,1
+Code examples for learning combination of Selenium and Behaviour-Driven Development (BDD) in python.,0,0,0,0,1
+Viral genomics analysis pipelines,0,0,0,0,1
+A procedural Blender pipeline for photorealistic training image generation,0,0,0,0,1
+Kubernetes community content,0,0,0,0,1
+DEFT-FUNNEL: An open-source global optimization solver for constrained grey-box and black-box problems in Matlab.,0,0,0,0,1
+Analysis ready CMIP6 data in python the easy way with pangeo tools.,0,0,0,0,1
 pymia: A Python package for data handling and evaluation in deep learning-based medical image analysis,1,0,0,0,0
 Google Play Unofficial Python API,0,0,1,0,0
 De novo annotation of young retrotransposons,0,0,0,1,0
@@ -182,23 +202,32 @@ Frame profiler,1,0,0,0,0
 The code and other assorted files pertaining to my attempts to benchmark parallel Concurrent ML processing in a handful of languages,0,1,0,0,0
 Point based  and tiny object detection and localization code set of UCAS-VG,0,1,0,0,0
 Benchmarking Linear Assignment Problem Solvers,0,1,0,0,0
+"ROS packages for Dynamixel controllers, msgs, single_manager, toolbox, tutorials",1,0,0,0,0
 Big Data Pipelining For Java,0,0,0,1,0
 ,0,1,0,0,0
 The PatchCamelyon (PCam) deep learning classification benchmark.,0,1,0,0,0
 A library for ML benchmarking. It's powerful.,0,1,0,0,0
+A custom view to show achievements on Android,1,0,0,0,0
+Execute genetic algorithm (GA) simulations in a customizable and extensible way.,1,0,0,0,0
 "A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",0,0,1,0,0
+Overlord consensus protocol.,1,0,0,0,0
+"A very fast visualization library for large, high-dimensional data sets.",1,0,0,0,0
 Using bacon to generate a large number of new chronologies from existing Neotoma records.,0,0,0,1,0
 "Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks (DOI: https://doi.org/10.5281/zenodo.5879231) | Tutorial: https://actinia-org.github.io/actinia-core/ | Docker: https://hub.docker.com/r/mundialis/actinia-core",0,0,1,0,0
 "Pegasus Workflow Management System - Automate, recover, and debug scientific computations.",0,0,0,1,0
 An API documentation generator for JavaScript.,0,0,1,0,0
 Write scalable load tests in plain Python 🚗💨,0,1,0,0,0
 Compression Benchmark,0,1,0,0,0
+Apache Cordova Dialogs Plugin,1,0,0,0,0
 "Novel ultrafast suite for high-throughput & high-content multiparameter screening as in drug discovery. It has unique modules for QC, bias correction, similarity measurement, clustering and visualization. It can process hundreds of samples with many markers in a few hours not days & circumvents bath effect. It couples with any plate reader.",0,0,0,1,0
 benchmarking quantum circuit emulators for your daily research usage,0,1,0,0,0
+Understanding suppression of HIV in R,1,0,0,0,0
 "PRAW, an acronym for ""Python Reddit API Wrapper"", is a python package that allows for simple access to Reddit's API.",0,0,1,0,0
 "A benchmark for Geometric Algebra libraries, library generators, and code optimizers.",0,1,0,0,0
 R interface for SEEK API (connection to FAIRDOMHub),0,0,1,0,0
+Download and process satellite imagery in Python using Sentinel Hub services.,1,0,0,0,0
 AMBER: Assessment of Metagenome BinnERs,0,1,0,0,0
+"Python package of Tomoto, the Topic Modeling Tool ",1,0,0,0,0
 ,0,0,0,1,0
 "REST API generator with Node.js, Express and Mongoose",0,0,1,0,0
 "A lightweight Python library for The Movie Database (TMDb) API. The TMDb API is a resource for developers to integrate movie, TV show and cast data along with posters or movie fan art.",0,0,1,0,0
@@ -207,20 +236,31 @@ Python suite to construct benchmark machine learning datasets from the MIMIC-III
 "bids application for processing functional MRI data, robust to scanner, acquisition and age variability.",0,0,0,1,0
 This contains the dataset for comparing scRNA-seq analysis methods,0,1,0,0,0
 Collaborative Machine-Learning-Centric Data Analytics Using Workflows,0,0,0,1,0
+oneAPI Deep Neural Network Library (oneDNN),1,0,0,0,0
 A Java library for communicating with the Twilio REST API and generating TwiML.,0,0,1,0,0
 A Programmatic Incremental Build System in Java,0,0,0,1,0
 Python client for iNaturalist,0,0,1,0,0
 REST API for Knot Service,0,0,1,0,0
+Official Python client library for kubernetes,1,0,0,0,0
 A ground-truth fuzzing benchmark suite based on real programs with real bugs.,0,1,0,0,0
 "Are We Fast Yet? Comparing Language Implementations with Objects, Closures, and Arrays",0,1,0,0,0
 A MATLAB application to automatize analysis of EEG data,0,0,0,1,0
 A Python wrapper around the OpenWeatherMap web API,0,0,1,0,0
 Across the Great Wall we can reach every corner in the world,0,1,0,0,0
+Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa,1,0,0,0,0
 bisulfite sequencing pipeline from fastq to methylation reports,0,0,0,1,0
 Repository for documentation to support the IEEE 2791-2020 standard.  Please see our home page for communications/publications: ,0,0,0,1,0
+A tiny and standalone javascript library for classification and basic statistics :,1,0,0,0,0
+Mirror of Apache Santuario Java,1,0,0,0,0
+oneAPI Deep Neural Network Library (oneDNN),1,0,0,0,0
+"Clear implementation of arithmetic coding for educational purposes in Java, Python, C++.",1,0,0,0,0
 Desktop Application for modeling Zeebe Workflows with BPMN,0,0,0,1,0
+"A C++ binding for the OpenGL API, generated using the gl.xml specification. ",1,0,0,0,0
 "DNAscan is a fast and efficient bioinformatics pipeline that allows for the analysis of DNA Next Generation sequencing data, requiring very little computational effort and memory usage.",0,0,0,1,0
+"C++ Requests: Curl for People, a spiritual port of Python Requests.",1,0,0,0,0
+Virtual Python Environment builder,1,0,0,0,0
 Repository for version control of the BrAPI specifications,0,0,1,0,0
+Python Library for xAPI (originally Tin Can API),1,0,0,0,0
 "Spine Toolbox is an open source Python package to manage data, scenarios and workflows for modelling and simulation. You can have your local workflow, but work as a team through version control and SQL databases.",0,0,0,1,0
 A taxonomic toolbelt for R,0,0,1,0,0
 The ultimate memory bandwidth benchmark,0,1,0,0,0
@@ -248,4 +288,64 @@ A microbenchmark support library,0,1,0,0,0
 "Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology.",0,1,0,0,0
 Python package to extend Airflow functionality with CWL1.1 support,0,0,0,1,0
 With this simple API you can simply call GraphViz's dot from your Java programs.,0,0,1,0,0
+Automated pipeline for amplicon sequence analysis ,0,0,0,1,0
+"Collection of Verification Tasks (MOVED, please follow the link)",0,1,0,0,0
 RESTest: Automated Black-Box Testing of RESTful Web APIs,0,0,1,0,0
+"PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform",0,0,1,0,0
+A tool to detect migration code between two Java third-party libraries,0,0,1,0,0
+Parser for RSQL / FIQL – query language for RESTful APIs,0,0,1,0,0
+A flexible Nextflow-based framework for the definition of sequencing data processing pipelines,0,0,0,1,0
+A dataset of datasets for learning to learn from few examples,0,1,0,0,0
+"🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",0,0,1,0,0
+Join Order Benchmark (JOB),0,1,0,0,0
+Retrieve data from ICObench,0,0,1,0,0
+📊 Reproducible Benchmark for Everyone,0,1,0,0,0
+R client for various CrossRef APIs,0,0,1,0,0
+Platform for defining and executing scientific pipelines in distributed environments,0,0,0,1,0
+Genome Annotation Without Nightmares,0,0,0,1,0
+"JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily",0,0,1,0,0
+This repository contains all CrySL rules currently used in the crypto assistant CogniCrypt.,0,0,1,0,0
+EvoMaster Benchmark (EMB): a set of web/enterprise applications for experimentation in automated system testing,0,1,0,0,0
+Snakemake pipeline for Popoolation and Popoolation2,0,0,0,1,0
+"RNA-seq, QC and differential analysis pipeline",0,0,0,1,0
+"A machine learning toolkit for log parsing [ICSE'19, DSN'16]",0,1,0,0,0
+A pipeline to select optimal markers for microbial phylogenomics and species tree estimation using the multispecies coalescent and concatenation approaches,0,0,0,1,0
+[ITS'21] Human Trajectory Forecasting in Crowds: A Deep Learning Perspective,0,1,0,0,0
+Comparison tools,0,1,0,0,0
+A pipeline framework for python,0,0,0,1,0
+Workflow Description Language - Specification and Implementations,0,0,0,1,0
+Workflow for LC-MS feature analysis and spatial mapping,0,0,0,1,0
+Data intensive science for everyone.,0,0,0,1,0
+"🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨",0,0,1,0,0
+A neural named entity recognition and multi-type normalization tool for biomedical text mining,0,0,1,0,0
+BioThings API framework - Making high-performance API for biological annotation data,0,0,1,0,0
+A repository of pretty cool datasets that I collected for network science and machine learning research.,0,1,0,0,0
+":rose: Rose is a toolkit for writing, editing and running application configurations.",0,0,0,1,0
+:bar_chart: Cross-platform user-friendly xlsx library for C++11+,0,0,1,0,0
+OWLTools,0,0,1,0,0
+Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.,0,0,1,0,0
+Differential gene expression analysis and pathway analysis of RNAseq data,0,0,0,1,0
+A workflow tool to automatically run a bioinformatic pipeline,0,0,0,1,0
+A cloud-native Pipeline resource.,0,0,0,1,0
+"XiPKI: Compact open source PKI (CA, OCSP responder, certificate protocols ACME, CMP, EST).",0,0,1,0,0
+A War Beyond Deepfake: Benchmarking Facial Counterfeits and Countermeasures,0,1,0,0,0
+oneAPI Math Kernel Library (oneMKL) Interfaces,0,0,1,0,0
+Unofficial API for 0day.today database | Supported languages: Python and PHP,0,0,1,0,0
+"Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API",0,0,1,0,0
+"A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.",0,0,1,0,0
+The Unofficial TikTok API Wrapper In Python,0,0,1,0,0
+Collection scripts and workflows for data analysis on screening,0,0,0,1,0
+APPIAN is an open-source automated software pipeline for analyzing PET images in conjunction with MRI. The goal of APPIAN is to make PET tracer kinetic data analysis easy for users with moderate computing skills and to facilitate reproducible research. ,0,0,0,1,0
+Airspeed Velocity: A simple Python benchmarking tool with web-based reporting,0,1,0,0,0
+Not only A Micro-Benchmark,0,1,0,0,0
+[CVPR 2020] A Large-Scale Dataset for Real-World Face Forgery Detection,0,1,0,0,0
+Multi-sample somatic variant caller,0,0,0,1,0
+Fault-tolerant distributed algorithms encoded in a formal language,0,1,0,0,0
+Mapping pipeline for snmC-seq based technologies.,0,0,0,1,0
+Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊,0,0,0,1,0
+Source for the TechEmpower Framework Benchmarks project,0,1,0,0,0
+Python Performance Benchmark Suite,0,1,0,0,0
+"A R framework for pipeline benchmarking, with application to single-cell RNAseq",0,1,0,0,0
+TorchBench is a collection of open source benchmarks used to evaluate PyTorch performance.,0,1,0,0,0
+py.test fixture for benchmarking code,0,1,0,0,0
+Expanded NBS tools for new statistics and benchmarking,0,1,0,0,0
