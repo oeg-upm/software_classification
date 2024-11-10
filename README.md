@@ -8,7 +8,6 @@ Pipeline to identify the presence of software in Github repositories. Also, clas
 This pipeline is composed by the following scripts:
 * add_github_metadata.py: It takes a list of github repositories from a CSV file, and create a new CSV file with the following metadata fields from Github (types of language, description and topics)
 * multilabel_classifier: This script classify the software in this categories: Worksflow, Benchmark, Library and Other. It has been trained from a DistilBERT model. It uses the description field used by Github. 
-* calculate_type_software: This script calculates the type of the software based on the categorization provided by Linguistics library (Programming, Shell, Markdown and Data). Also, combine the results with the multilabel classifier to classify the software in these categories: Workflows, Notebooks, Libraries, Services, Scripts, Benchmark and Others.
 
 Another additional scripts are presented in the repository to reproduce the experiments:
 * calculate_distribution: This script calculates the distribution of the categories identified in the repositories.
