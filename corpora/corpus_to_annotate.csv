@@ -1,0 +1,251 @@
+github_url,description,Library,Benchmark,Service,Workflow,Other
+https://github.com/circulosmeos/gztool,"extract random-positioned data from gzip files with no penalty, including gzip tailing like with 'tail -f' !",0,0,0,0,1
+https://github.com/bennidi/mbassador,"Powerful event-bus optimized for high throughput in multi-threaded applications. Features: Sync and Async event publication, weak/strong references, event filtering, annotation driven",0,0,0,0,1
+https://github.com/nealrichardson/httptest,A Test Environment for HTTP Requests in R,0,0,0,0,1
+https://github.com/1N3/IntruderPayloads,"A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.",0,0,0,0,1
+https://github.com/rohankhera/rkhrrpeval,Evaluation of the Hospital Readmissions Reduction Program,0,0,0,0,1
+https://github.com/tkn-tub/ns3-gym,ns3-gym - The Playground for Reinforcement Learning in Networking Research,0,0,0,0,1
+https://github.com/vasturiano/3d-force-graph,3D force-directed graph component using ThreeJS/WebGL,0,0,0,0,1
+https://github.com/CihanTopal/ED_Lib,"Implementations of edge (ED, EDColor, EDPF), line (EDLines), circle and low eccentric ellipse (EDCircles) detection algorithms.",0,0,0,0,1
+https://github.com/lilit-nersisyan/fivepseq,"An application for analysis of 5′ endpoints distribution in RNA sequencing datasets. This is particularly useful for techniques that capture 5′ monophosphorylated RNAs, such as 5PSeq, PARE-seq or GMUC. It may also be useful for ribosome profiling datasets and alike.The main workflow of fivepseq is intended for downstream analysis of alignment files to describe the distribution of 5′ endpoints of reads relative to translation start and stop sites, as well as relative to amino acids or codons. It also computes frame preference of 5′ endpoint distribution and captures periodicity patterns.",0,0,0,0,1
+https://github.com/djebR/archer,Uncertainty Evaluation Tool for Linked Data sources,0,0,0,0,1
+https://github.com/tensorforce/tensorforce,Tensorforce: a TensorFlow library for applied reinforcement learning,0,0,0,0,1
+https://github.com/i-d-e/ride,Datasets of RIDE (A review journal for digital editions and resources),0,0,0,0,1
+https://github.com/conda-forge/conda-forge.github.io,The conda-forge website.,0,0,0,0,1
+https://github.com/Tencent/ncnn,ncnn is a high-performance neural network inference framework optimized for the mobile platform,0,0,0,0,1
+https://github.com/moquette-io/moquette,Java MQTT lightweight broker,0,0,0,0,1
+https://github.com/Duke-GCB/calrissian,CWL on Kubernetes,0,0,0,0,1
+https://github.com/issp-center-dev/DCore,DMFT software for CORrelated Electrons,0,0,0,0,1
+https://github.com/huggingface/transformers,"🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",1,0,0,0,0
+https://github.com/wb14123/couplet-dataset,Dataset for couplets. 70万条对联数据库。,0,0,0,0,1
+https://github.com/eclipse-rdf4j/rdf4j,Eclipse RDF4J: scalable RDF for Java,0,0,0,0,1
+https://github.com/ricklupton/floweaver,View flow data as Sankey diagrams,0,0,0,0,1
+https://github.com/jokergoo/epik,Integrative analysis for epigenomic sequencing data,0,0,0,0,1
+https://github.com/metalcorebear/NRCLex,An affect generator based on TextBlob and the NRC affect lexicon.  Note that lexicon license is for research purposes only.,0,0,0,0,1
+https://github.com/FluxionNetwork/fluxion,Fluxion is a remake of linset by vk496 with enhanced functionality.,0,0,0,0,1
+https://github.com/AntShares/AntShares,NEO Smart Economy,0,0,0,0,1
+https://github.com/OmniSearch/omit,Ontology for MicroRNA Target,0,0,0,0,1
+https://github.com/lulizou/boostme,R package to impute methylation within WGBS using machine learning,0,0,0,0,1
+https://github.com/nf-core/ampliseq,Amplicon sequencing analysis workflow using DADA2 and QIIME2,0,0,0,1,0
+https://github.com/jovanbulck/sgx-step,A practical attack framework for precise enclave execution control,0,0,0,0,1
+https://github.com/cafejojo/schaapi,🐑 Safe Changes for APIs,0,0,1,0,0
+https://github.com/neopenx/Dragon,Dragon: A Computation Graph Virtual Machine Based Deep Learning Framework.,0,0,0,0,1
+https://github.com/tensorflow/tensorflow,An Open Source Machine Learning Framework for Everyone,0,0,0,0,1
+https://github.com/lehduong/kesi,Knowledge distillation from Ensembles of Iterative pruning (BMVC 2020),0,0,0,0,1
+https://github.com/swar/nba_api,An API Client package to access the APIs for NBA.com,0,0,0,0,1
+https://github.com/canboat/canboat,CAN Boat provides NMEA 2000 and NMEA 0183 utilities. It contains a NMEA 2000 PGN decoder and can read and write N2K messages. It is not meant as an end-user tool but as a discovery mechanism for delving into NMEA 2000 networks.,0,0,0,0,1
+https://github.com/faker-ruby/faker,"A library for generating fake data such as names, addresses, and phone numbers.",0,0,0,0,1
+https://github.com/requery/requery,requery - modern SQL based query & persistence for Java / Kotlin / Android,0,0,0,0,1
+https://github.com/getalp/disambiguate,Disambiguate is a tool for training and using state of the art neural WSD models,0,0,0,0,1
+https://github.com/EmaroLab/armor,ROS service implementation of aMOR framework to work with multiple ontologies.,0,0,0,0,1
+https://github.com/davidtvs/PyTorch-ENet,PyTorch implementation of ENet,0,0,0,0,1
+https://github.com/dianping/cat,"CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",0,0,0,0,1
+https://github.com/hadley/rvest,Simple web scraping for R,0,0,0,0,1
+https://github.com/Open-Systems-Pharmacology/Skin-permeation-model,Implementation of Dancik et al (2013) skin permeation model in MoBi,0,0,0,0,1
+https://github.com/Helsinki-NLP/OpusFilter,OpusFilter - Parallel corpus processing toolkit,0,0,0,0,1
+https://github.com/finagle/finch,Scala combinator library for building Finagle HTTP services,0,0,0,0,1
+https://github.com/src-d/datasets,"source{d} datasets (""big code"") for source code analysis and machine learning on source code",0,0,0,0,1
+https://github.com/gboeing/pynamical,"Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.",0,0,0,0,1
+https://github.com/jovanbulck/sgx-step,A practical attack framework for precise enclave execution control,0,0,0,0,1
+https://github.com/wf8/onagraceae,Stochastic character mapping of state-dependent diversification,0,0,0,0,1
+https://github.com/pascalpoizat/fbpmn,:microscope: formal tools for BPMN,0,0,0,0,1
+https://github.com/jnothman/UpSetPlot,Draw UpSet plots with Matplotlib,0,0,0,0,1
+https://github.com/pcm-dpc/COVID-19,COVID-19 Italia - Monitoraggio situazione,0,0,0,0,1
+https://github.com/deepset-ai/FARM,:house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.,1,0,0,0,0
+https://github.com/HeardLibrary/semantic-web,Repository for the Semantic Web Working Group at Vanderbilt University,0,0,0,0,1
+https://github.com/rundherum/pymia,pymia: A Python package for data handling and evaluation in deep learning-based medical image analysis,1,0,0,0,0
+https://github.com/NoMore201/googleplay-api,Google Play Unofficial Python API,0,0,1,0,0
+https://github.com/HajkD/LTRpred,De novo annotation of young retrotransposons,0,0,0,1,0
+https://github.com/hammerlab/epidisco,Personalized cancer epitope discovery and peptide vaccine prediction pipeline,0,0,0,1,0
+https://github.com/EMResearch/EMB,EvoMaster Benchmark (EMB): a set of web/enterprise applications for experimentation in automated system testing,0,1,0,0,0
+https://github.com/opnfv/qtip,Mirror of the OPNFV QTIP Project,0,1,0,0,0
+https://github.com/wso2/siddhi,Stream Processing and Complex Event Processing Engine,1,0,0,0,0
+https://github.com/cph-tum/bertha,"Project skeleton for scientific software (C++ with Python interface). Note that this is a mirror repository, the active development is carried out on GitLab.",1,0,0,0,0
+https://github.com/w3c/hr-time,High Resolution Time,0,0,1,0,0
+https://github.com/goadesign/goa,"🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨",0,0,1,0,0
+https://github.com/ldbc/ldbc_snb_docs,Specification of the LDBC Social Network Benchmark suite,0,1,0,0,0
+https://github.com/lukeolson/STREAM-python,STREAM benchmark in Python,0,1,0,0,0
+https://github.com/giesselmann/nanopype,Snakemake pipelines for nanopore sequencing data archiving and processing,0,0,0,1,0
+https://github.com/Ramotion/folding-cell,:octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion,1,0,0,0,0
+https://github.com/CabbageDevelopment/qasync,Python library for using asyncio in Qt-based applications.,1,0,0,0,0
+https://github.com/mvuorre/reproguide-curate,Curating Research Assets in Behavioral Sciences: A tutorial on organizing and curating research materials using RStudio & the Git version control system,0,0,0,1,0
+https://github.com/keblu/nse,Offers mutliple ways to calculate numerical standard errors (NSE) of     univariate (or multivariate in some cases) time series.,1,0,0,0,0
+https://github.com/tensorflow/cleverhans,"An adversarial example library for constructing attacks, building defenses, and benchmarking both",0,1,0,0,0
+https://github.com/fperraudeau/singlecellworkflow,Tutorial for the analysis of scRNA-seq data in R,0,0,0,1,0
+https://github.com/mommermi/photometrypipeline,automated photometry pipeline for small to medium-sized observatories,0,0,0,1,0
+https://github.com/alubbock/microbench,"Benchmarking and metadata tracking for Python. Extensible, with distributed/cluster support.",0,1,0,0,0
+https://github.com/BurntSushi/pdoc,API Documentation for Python Projects,0,0,1,0,0
+https://github.com/huggingface/transformers,"🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",1,0,0,0,0
+https://github.com/microsoft/api-guidelines,Microsoft REST API Guidelines,0,0,1,0,0
+https://github.com/tfussell/xlnt,:bar_chart: Cross-platform user-friendly xlsx library for C++11+,0,0,1,0,0
+https://github.com/yoann-dufresne/SLIM,A web app for environmental DNA metabarcoding analysis,0,0,0,1,0
+https://github.com/google/xls,XLS: Accelerated HW Synthesis,0,0,0,1,0
+https://github.com/nguyentb/Personal-data-management,Personal Data Management business logic written in Smart Contracts,0,0,1,0,0
+https://github.com/lerna/lerna,":dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.",1,0,0,0,0
+https://github.com/apache/cxf,Apache CXF,1,0,0,0,0
+https://github.com/sbg/biocompute,Create and Manipulate BioCompute Objects,0,0,0,1,0
+https://github.com/rominf/profanityfilter,A Python library for detecting and filtering profanity,1,0,0,0,0
+https://github.com/ncbi-nlp/BLUE_Benchmark,BLUE benchmark consists of five different biomedicine text-mining tasks with ten corpora.,0,1,0,0,0
+https://github.com/rabauke/mpl,A C++17 message passing library based on MPI,1,0,0,0,0
+https://github.com/vstinner/perf,Toolkit to run Python benchmarks,0,1,0,0,0
+https://github.com/DataBiosphere/toil,"A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.",0,0,0,1,0
+https://github.com/spacetelescope/hstcal,"Calibration for HST/WFC3, HST/ACS, and HST/STIS",0,0,0,1,0
+https://github.com/orbitdb/orbit-db-http-api,A HTTP API Server for the OrbitDB distributed peer-to-peer database,0,0,1,0,0
+https://github.com/PythonistaGuild/TwitchIO,An Async Bot/API wrapper for Twitch made in Python.,0,0,1,0,0
+https://github.com/ipazc/mtcnn,"MTCNN face detection implementation for TensorFlow, as a PIP package.",1,0,0,0,0
+https://github.com/wookey-project/libiso7816,SoC-independent part of the iso7816 stack,1,0,0,0,0
+https://github.com/biolink/biolink-api,API for linked biological knowledge,0,0,1,0,0
+https://github.com/zalandoresearch/fashion-mnist,A MNIST-like fashion product database. Benchmark :point_down: ,0,1,0,0,0
+https://github.com/gagneurlab/drop,"Pipeline to find aberrant events in RNA-Seq data, useful for diagnosis of rare disorders",0,0,0,1,0
+https://github.com/CEED/benchmarks,CEED Benchmarks,0,1,0,0,0
+https://github.com/astrocatalogs/OACAPI,Open Astronomy Catalog API,0,0,1,0,0
+https://github.com/CEED/libCEED,CEED Library: Code for Efficient Extensible Discretizations,0,0,1,0,0
+https://github.com/atilika/kuromoji,Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search,1,0,0,0,0
+https://github.com/attractivechaos/klib,A standalone and lightweight C library,1,0,0,0,0
+https://github.com/haddocking/BM5-clean,Docking benchmark 5 - cleaned and ready to use for HADDOCK,0,1,0,0,0
+https://github.com/DataBiosphere/toil,"A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.",0,0,0,1,0
+https://github.com/Chrisvin/RubberPicker,Android Rubber Picker Library,1,0,0,0,0
+https://github.com/bjornbredesen/gnocis,Gnocis is a system for the interactive and reproductible analysis and modelling of cis-regulatory DNA sequences in Python 3,1,0,0,0,0
+https://github.com/freenet-public/got-swag,:monkey_face: A tool to test Swagger-powered APIs automatically through monkey testing and custom test suites,0,0,1,0,0
+https://github.com/databio/pypiper,Python toolkit for building restartable pipelines,0,0,0,1,0
+https://github.com/cerfacs-globc/icclim,icclim: Python library for climate indices and climate indicators calculation.,1,0,0,0,0
+https://github.com/epiviz/epivizFileServer,Python library to query and transform genomic data from indexed files,0,0,1,0,0
+https://github.com/yzrobot/mrs_testbed,Multi-robot Exploration Testbed,0,1,0,0,0
+https://github.com/guigolab/chip-nf,An automated ChIP-seq pipeline using Nextfow,0,0,0,1,0
+https://github.com/SCnext/mixedSCGLR,Supervised Component Generalised Linear Regression for mixed models,1,0,0,0,0
+https://github.com/fmalmeida/bacannot,Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports and shiny app.,0,0,0,1,0
+https://github.com/karakanb/sorting-benchmark,"A basic benchmarking for insertion sort, merge sort and quicksort in C++.",0,1,0,0,0
+https://github.com/cakephp/cakephp,CakePHP: The Rapid Development Framework for PHP - Official Repository,0,0,1,0,0
+https://github.com/slipguru/palladio,ParALleL frAmework for moDel selectIOn,0,0,0,1,0
+https://github.com/google/xls,XLS: Accelerated HW Synthesis,0,0,0,1,0
+https://github.com/encode/django-rest-framework,Web APIs for Django. 🎸,0,0,1,0,0
+https://github.com/GIScience/openrouteservice-docs,:memo: This repository stores the swagger specifications of the openrouteservice API. Browse to swagger for a detailed overview.,0,0,1,0,0
+https://github.com/munstermonster/cuSten,CUDA Finite Difference Library,1,0,0,0,0
+https://github.com/microsoft/FASTER,"Fast persistent recoverable log and key-value store + cache, in C# and C++.",1,0,0,0,0
+https://github.com/MassBank/MassBank-data,Official repository of open data MassBank records,1,0,0,0,0
+https://github.com/adokter/bioRad,R package for analysis and visualisation of biological signals in weather radar data,1,0,0,0,0
+https://github.com/nmecsys/BETS,Package to obtain and analyze thousands of Brazilian economic time series ,1,0,0,0,0
+https://github.com/ooibc88/blockbench,"BLOCKBENCH: A Framework for Analyzing Private Blockchains. Blockbench contains workloads for measuring the data processing performance, and workloads for understanding the performance of different layers of Blockchain systems. ",0,1,0,0,0
+https://github.com/oda-hub/oda_api_benchmark,Examples and Benchmarks for ODA API,0,1,0,0,0
+https://github.com/simecek/intermediate,small R utility for mediation analysis,1,0,0,0,0
+https://github.com/jazzband/prettytable,Display tabular data in a visually appealing ASCII table format,1,0,0,0,0
+https://github.com/ldtoolkit/conceptnet-lite,Python library to work with ConceptNet offline without the need for PostgreSQL,1,0,0,0,0
+https://github.com/sosy-lab/sv-benchmarks,"Collection of Verification Tasks (MOVED, please follow the link)",0,1,0,0,0
+https://github.com/GjjvdBurg/abed,abed: A command line tool for easily running machine learning benchmarks,0,1,0,0,0
+https://github.com/apache/cordova-plugin-geolocation,Apache Cordova Geolocation Plugin,1,0,0,0,0
+https://github.com/dotnet-architecture/eShopOnWeb,"Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.",0,0,1,0,0
+https://github.com/lifeomic/sparkflow,Easy to use library to bring Tensorflow on Apache Spark,0,0,0,1,0
+https://github.com/python-restx/flask-restx,"Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask",0,0,1,0,0
+https://github.com/BodenmillerGroup/ImcSegmentationPipeline,A pixel classification based multiplexed image segmentation pipeline,0,0,0,1,0
+https://github.com/RDFLib/rdflib,"RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.",1,0,0,0,0
+https://github.com/sdv-dev/SDGym,Benchmarking synthetic data generation methods.,0,1,0,0,0
+https://github.com/json-ld/json-ld.org,JSON for Linked Data's documentation and playground site,0,0,1,0,0
+https://github.com/apilayer/restcountries,Get information about countries via a RESTful API,0,0,1,0,0
+https://github.com/fastnlp/fastNLP,fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.,1,0,0,0,0
+https://github.com/libtcod/python-tcod,A high-performance Python port of libtcod.  Includes the libtcodpy module for backwards compatibility with older projects.,1,0,0,0,0
+https://github.com/TheHive-Project/Cortex,Cortex: a Powerful Observable Analysis and Active Response Engine,0,0,1,0,0
+https://github.com/pyinstaller/pyinstaller,Freeze (package) Python programs into stand-alone executables,1,0,0,0,0
+https://github.com/HuffordLab/Maize_NC358,The repository for codes developed to generated the Maize NC358 assemblies and analyses.,0,1,0,0,0
+https://github.com/hypre-space/hypre,Parallel solvers for sparse linear systems featuring multigrid methods.,1,0,0,0,0
+https://github.com/MHH-RCUG/Wochenende,Deprecated see https://github.com/MHH-RCUG/nf_wochenende : A whole Genome/Metagenome Sequencing Alignment Pipeline in Python3,0,0,0,1,0
+https://github.com/arockenberger/NorKorr,Norwegian Correspondences,1,0,0,0,0
+https://github.com/JuliaCI/BenchmarkTools.jl,A benchmarking framework for the Julia language,0,1,0,0,0
+https://github.com/soar-telescope/goodman_pipeline,Goodman Data Reduction Pipeline,0,0,0,1,0
+https://github.com/APIs-guru/openapi-directory,🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format,0,0,1,0,0
+https://github.com/sharkdp/hyperfine,A command-line benchmarking tool,0,1,0,0,0
+https://github.com/frahik/BMTME,Bayesian Multi-Trait Multi-Environment for genomic selection[R package] [Dev version],1,0,0,0,0
+https://github.com/askplatypus/wikidata-simplequestions,Mapping of the SimpleQuestions dataset to Wikidata,0,1,0,0,0
+https://github.com/Frostarella/DSUR.noof,R package substitute for the package mentioned in 'Discovering Statistics Using R',1,0,0,0,0
+https://github.com/mocobeta/janome,Japanese morphological analysis engine written in pure Python,1,0,0,0,0
+https://github.com/kohsuke/github-api,Java API for GitHub,0,0,1,0,0
+https://github.com/tsegismont/graphql-server-benchmark,Benchmark of a simple GraphQL server on popular spec implementations,0,1,0,0,0
+https://github.com/unikraft/unikraft,"A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.",1,0,0,0,0
+https://github.com/apache/shiro,Apache Shiro,1,0,0,0,0
+https://github.com/wzhy2000/HiGWAS,Lasso method for the estimation of joint genetic effects in GWAS,1,0,0,0,0
+https://github.com/aiidateam/aiida_core,The official repository for the AiiDA code,0,0,0,1,0
+https://github.com/rr-/screeninfo,Fetch location and size of physical screens.,1,0,0,0,0
+https://github.com/UFFeScience/Phenomanager,Phenomanager,0,0,0,1,0
+https://github.com/openmole/openmole,Workflow engine for exploration of simulation models using high throughput computing,0,0,0,1,0
+https://github.com/powturbo/TurboPFor-Integer-Compression,Fastest Integer Compression,1,0,0,0,0
+https://github.com/EloiZ/embedding_evaluation,Evaluate your word embeddings,0,1,0,0,0
+https://github.com/HenrikBengtsson/aroma.seq,🔬 R package: aroma.seq: High-Throughput Sequence Analysis using the Aroma Framework,1,0,0,0,0
+https://github.com/chartes/dico-topo-app,API de l’application DicoTopo (https://dicotopo.cths.fr/),0,0,1,0,0
+https://github.com/golsun/NLP-tools,"Useful python NLP tools (evaluation, GUI interface, tokenization)",1,0,0,0,0
+https://github.com/andrewgull/MGERT,Mobile Genetic Elements Retrieving Tool,0,0,0,1,0
+https://github.com/anwarMZ/CoMW,Comparative Metatranscriptomics Workflow,0,1,0,0,0
+https://github.com/gvasold/papilotte,A flexible and extensible IPIF server,0,0,1,0,0
+https://github.com/traut/stixview,STIX2 graph visualisation library in JS,1,0,0,0,0
+https://github.com/SCnext/SCGLR,An extension of the Fisher Scoring Algorithm to combine PLS regression with GLM estimation in the multivariate context. Covariates can be grouped in themes.,1,0,0,0,0
+https://github.com/lyy005/Aphid_AL4_chromosome_assembly,The analytical pipeline of the AL4 strain genome,0,0,0,1,0
+https://github.com/WorksApplications/SudachiPy,"Python version of Sudachi, a Japanese tokenizer.",1,0,0,0,0
+https://github.com/wolfpld/tracy,Frame profiler,1,0,0,0,0
+https://github.com/jcoo092/CML_benchmarks,The code and other assorted files pertaining to my attempts to benchmark parallel Concurrent ML processing in a handful of languages,0,1,0,0,0
+https://github.com/ucas-vg/TinyBenchmark,Point based  and tiny object detection and localization code set of UCAS-VG,0,1,0,0,0
+https://github.com/berhane/LAP-solvers,Benchmarking Linear Assignment Problem Solvers,0,1,0,0,0
+https://github.com/sing-group/bdp4j,Big Data Pipelining For Java,0,0,0,1,0
+https://github.com/droidxp/benchmark,,0,1,0,0,0
+https://github.com/basveeling/pcam,The PatchCamelyon (PCam) deep learning classification benchmark.,0,1,0,0,0
+https://github.com/KevinMusgrave/powerful-benchmarker,A library for ML benchmarking. It's powerful.,0,1,0,0,0
+https://github.com/quantumlib/Cirq,"A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",0,0,1,0,0
+https://github.com/NeotomaDB/bulk-baconizing,Using bacon to generate a large number of new chronologies from existing Neotoma records.,0,0,0,1,0
+https://github.com/actinia-org/actinia-core,"Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks (DOI: https://doi.org/10.5281/zenodo.5879231) | Tutorial: https://actinia-org.github.io/actinia-core/ | Docker: https://hub.docker.com/r/mundialis/actinia-core",0,0,1,0,0
+https://github.com/pegasus-isi/pegasus,"Pegasus Workflow Management System - Automate, recover, and debug scientific computations.",0,0,0,1,0
+https://github.com/jsdoc/jsdoc,An API documentation generator for JavaScript.,0,0,1,0,0
+https://github.com/locustio/locust,Write scalable load tests in plain Python 🚗💨,0,1,0,0,0
+https://github.com/powturbo/TurboBench,Compression Benchmark,0,1,0,0,0
+https://github.com/morchalabi/COMPARE-suite,"Novel ultrafast suite for high-throughput & high-content multiparameter screening as in drug discovery. It has unique modules for QC, bias correction, similarity measurement, clustering and visualization. It can process hundreds of samples with many markers in a few hours not days & circumvents bath effect. It couples with any plate reader.",0,0,0,1,0
+https://github.com/Roger-luo/quantum-benchmarks,benchmarking quantum circuit emulators for your daily research usage,0,1,0,0,0
+https://github.com/praw-dev/praw,"PRAW, an acronym for ""Python Reddit API Wrapper"", is a python package that allows for simple access to Reddit's API.",0,0,1,0,0
+https://github.com/ga-developers/ga-benchmark,"A benchmark for Geometric Algebra libraries, library generators, and code optimizers.",0,1,0,0,0
+https://github.com/NIB-SI/seekr,R interface for SEEK API (connection to FAIRDOMHub),0,0,1,0,0
+https://github.com/CAMI-challenge/AMBER,AMBER: Assessment of Metagenome BinnERs,0,1,0,0,0
+https://github.com/mmterpstra/molgenis-c5-TumorNormal,,0,0,0,1,0
+https://github.com/diegohaz/rest,"REST API generator with Node.js, Express and Mongoose",0,0,1,0,0
+https://github.com/AnthonyBloomer/tmdbv3api,"A lightweight Python library for The Movie Database (TMDb) API. The TMDb API is a resource for developers to integrate movie, TV show and cast data along with posters or movie fan art.",0,0,1,0,0
+https://github.com/yasp-dota/yasp,Open source Dota 2 data platform,0,0,1,0,0
+https://github.com/YerevaNN/mimic3-benchmarks,Python suite to construct benchmark machine learning datasets from the MIMIC-III 💊 clinical database. ,0,1,0,0,0
+https://github.com/DCAN-Labs/abcd-hcp-pipeline,"bids application for processing functional MRI data, robust to scanner, acquisition and age variability.",0,0,0,1,0
+https://github.com/LuyiTian/sc_mixology,This contains the dataset for comparing scRNA-seq analysis methods,0,1,0,0,0
+https://github.com/Texera/texera,Collaborative Machine-Learning-Centric Data Analytics Using Workflows,0,0,0,1,0
+https://github.com/twilio/twilio-java,A Java library for communicating with the Twilio REST API and generating TwiML.,0,0,1,0,0
+https://github.com/metaborg/pie,A Programmatic Incremental Build System in Java,0,0,0,1,0
+https://github.com/pyinat/pyinaturalist,Python client for iNaturalist,0,0,1,0,0
+https://github.com/biznetgio/restknot,REST API for Knot Service,0,0,1,0,0
+https://github.com/HexHive/magma,A ground-truth fuzzing benchmark suite based on real programs with real bugs.,0,1,0,0,0
+https://github.com/smarr/are-we-fast-yet,"Are We Fast Yet? Comparing Language Implementations with Objects, Closures, and Arrays",0,1,0,0,0
+https://github.com/BIAPT/EEGapp,A MATLAB application to automatize analysis of EEG data,0,0,0,1,0
+https://github.com/csparpa/pyowm,A Python wrapper around the OpenWeatherMap web API,0,0,1,0,0
+https://github.com/teddysun/across,Across the Great Wall we can reach every corner in the world,0,1,0,0,0
+https://github.com/BIMSBbioinfo/pigx_bsseq,bisulfite sequencing pipeline from fastq to methylation reports,0,0,0,1,0
+https://github.com/biocompute-objects/BCO_Specification,Repository for documentation to support the IEEE 2791-2020 standard.  Please see our home page for communications/publications: ,0,0,0,1,0
+https://github.com/zeebe-io/zeebe-modeler,Desktop Application for modeling Zeebe Workflows with BPMN,0,0,0,1,0
+https://github.com/KHP-Informatics/DNAscan,"DNAscan is a fast and efficient bioinformatics pipeline that allows for the analysis of DNA Next Generation sequencing data, requiring very little computational effort and memory usage.",0,0,0,1,0
+https://github.com/plantbreeding/API,Repository for version control of the BrAPI specifications,0,0,1,0,0
+https://github.com/spine-tools/Spine-Toolbox,"Spine Toolbox is an open source Python package to manage data, scenarios and workflows for modelling and simulation. You can have your local workflow, but work as a team through version control and SQL databases.",0,0,0,1,0
+https://github.com/ropensci/taxize,A taxonomic toolbelt for R,0,0,1,0,0
+https://github.com/RRZE-HPC/TheBandwidthBenchmark,The ultimate memory bandwidth benchmark,0,1,0,0,0
+https://github.com/lrjconan/LanczosNetwork,"Lanczos Network, Graph Neural Networks, Deep Graph Convolutional Networks, Deep Learning on Graph Structured Data, QM8 Quantum Chemistry Benchmark, ICLR 2019",0,1,0,0,0
+https://github.com/flapjacksynbio/flapjack_api,"This repository contains the source code, documentation, and instalation instructions for the Flapjack API",0,0,1,0,0
+https://github.com/broadinstitute/cromwell,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,0,0,0,1,0
+https://github.com/BgeeDB/bgee_pipeline,Source code of the Bgee pipeline used to build the Bgee database,0,0,0,1,0
+https://github.com/DomBennett/Project-EDBMM,:evergreen_tree::ghost: Testing the phylogenetic reality of the living fossil with an EDBMM,0,0,0,1,0
+https://github.com/catalina17/VideoNavQA,"An alternative EQA paradigm and informative benchmark + models (BMVC 2019, ViGIL 2019 spotlight)",0,1,0,0,0
+https://github.com/FlorentF9/SOMperf,:globe_with_meridians: SOMperf: Self-organizing maps performance metrics and quality indices,0,1,0,0,0
+https://github.com/AKSW/LSQ,"Linked SPARQL Queries (LSQ): Framework for RDFizing triple store (web) logs and performing SPARQL query extraction, analysis and benchmarking in order to produce datasets of Linked SPARQL Queries",0,1,0,0,0
+https://github.com/nf-core/nanoseq,"Nanopore demultiplexing, QC and alignment pipeline",0,0,0,1,0
+https://github.com/sdparekh/zUMIs,zUMIs: A fast and flexible pipeline to process RNA sequencing data with UMIs,0,0,0,1,0
+https://github.com/tiangolo/fastapi,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",0,0,1,0,0
+https://github.com/MontrealCorpusTools/PolyglotDB,Language data store and linguistic query API,0,0,1,0,0
+https://github.com/biopet/biopet,Biopet docs,0,0,0,1,0
+https://github.com/woolfson-group/isambard,"Intelligent System for Analysis, Model Building And Rational Design.",0,0,1,0,0
+https://github.com/GWASpi/GWASpi,A tool to perform Genome-Wide Association Studies,0,0,0,1,0
+https://github.com/CEED/FMS,The CEED high-order Field and Mesh Specification,0,0,1,0,0
+https://github.com/oroszgy/hunlp,Hungarian NLP tools API,0,0,1,0,0
+https://github.com/sosy-lab/sv-benchmarks,"Collection of Verification Tasks (MOVED, please follow the link)",0,1,0,0,0
+https://github.com/c3sr/scope,A benchmark framework for POWER and x86_64,0,1,0,0,0
+https://github.com/quantumlib/Cirq,"A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",0,0,1,0,0
+https://github.com/google/benchmark,A microbenchmark support library,0,1,0,0,0
+https://github.com/songlab-cal/tape,"Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology.",0,1,0,0,0
+https://github.com/Barski-lab/cwl-airflow,Python package to extend Airflow functionality with CWL1.1 support,0,0,0,1,0
+https://github.com/jabbalaci/graphviz-java-api,With this simple API you can simply call GraphViz's dot from your Java programs.,0,0,1,0,0
+https://github.com/isa-group/RESTest,RESTest: Automated Black-Box Testing of RESTful Web APIs,0,0,1,0,0
