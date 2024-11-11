@@ -4,7 +4,7 @@ import ast
 sample_limit = 70
 
 if __name__ == "__main__":
-    file_path = 'results/metadata_github_list.csv'
+    file_path = 'metadata_github_list.csv'
 
     df = pd.read_csv(file_path)
 
