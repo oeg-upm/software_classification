@@ -1,10 +1,10 @@
 import pandas as pd
 import ast
 
-sample_limit = 50
+sample_limit = 70
 
 if __name__ == "__main__":
-    file_path = 'programming_list.csv'
+    file_path = 'results/metadata_github_list.csv'
 
     df = pd.read_csv(file_path)
 
@@ -70,7 +70,7 @@ if __name__ == "__main__":
                     if other_detected:
                         num_other = num_other - 1
 
-            if num_library == 50 and num_benchmark == 50 and num_service == 50 and num_workflow == 50 and num_other == 50:
+            if num_library == sample_limit and num_benchmark == sample_limit and num_service == sample_limit and num_workflow == sample_limit and num_other == sample_limit:
                 break
 
         except Exception as ex:
@@ -78,4 +78,3 @@ if __name__ == "__main__":
 
     print(str(num_library)+"-"+str(num_benchmark)+"-"+str(num_service)+"-"+str(num_workflow)+"-"+str(num_other))
     df_corpus.to_csv('corpus_to_annotate.csv',index=False)
-    df_corpus.to_csv('corpus_for_classifier.csv',columns=['description', 'Library', 'Benchmark','Service','Workflow','Other'],index=False)
