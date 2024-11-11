@@ -1,114 +1,82 @@
-# Step 1: Install required packages
-# pip install transformers torch scikit-learn
-
+import pandas as pd
 import torch
-from torch.utils.data import DataLoader, Dataset
-from transformers import DistilBertTokenizer, DistilBertModel, DistilBertForSequenceClassification
-from transformers import AdamW
-from sklearn.metrics import accuracy_score, f1_score
-import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
+from transformers import DistilBertTokenizerFast, DistilBertForSequenceClassification, Trainer, TrainingArguments
 
-# Step 2: Define categories
-categories = ["Library", "Service", "Workflow", "Benchmark", "Other"]
-num_labels = len(categories)
+# Step 1: Load and Preprocess the Data
+# Load data
+df = pd.read_csv("corpus_for_classifier.csv")
 
-# Step 3: Define a sample dataset (replace with your own data)
-class CustomDataset(Dataset):
-    def __init__(self, texts, labels, tokenizer, max_len):
-        self.texts = texts
-        self.labels = labels
-        self.tokenizer = tokenizer
-        self.max_len = max_len
-    
-    def __len__(self):
-        return len(self.texts)
-    
-    def __getitem__(self, idx):
-        text = self.texts[idx]
-        labels = self.labels[idx]
-        encoding = self.tokenizer(
-            text,
-            max_length=self.max_len,
-            padding='max_length',
-            truncation=True,
-            return_tensors='pt'
-        )
-        return {
-            'input_ids': encoding['input_ids'].flatten(),
-            'attention_mask': encoding['attention_mask'].flatten(),
-            'labels': torch.tensor(labels, dtype=torch.float)
-        }
+# Convert descriptions to strings and check class distribution
+df['description'] = df['description'].astype(str)
+print("Class Distribution:\n", df[['Library', 'Benchmark', 'Service', 'Workflow', 'Other']].sum())
 
-# Example dataset
-texts = [
-    "This is a library for data processing.",
-    "We offer a benchmarking service.",
-    "This workflow simplifies the process.",
-    "This service is used for benchmarking."
-]
-labels = [
-    [1, 0, 0, 0, 0],  # Library
-    [0, 1, 0, 1, 0],  # Service, Benchmark
-    [0, 0, 1, 0, 0],  # Workflow
-    [0, 1, 0, 1, 0]   # Service, Benchmark
-]
-
-# Step 4: Tokenizer
-tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
-max_len = 128
-
-# Step 5: Create dataset and dataloaders
-dataset = CustomDataset(texts, labels, tokenizer, max_len)
-dataloader = DataLoader(dataset, batch_size=2, shuffle=True)
-
-# Step 6: Define model
-model = DistilBertForSequenceClassification.from_pretrained(
-    'distilbert-base-uncased',
-    num_labels=num_labels,
-    problem_type="multi_label_classification"
+# Split into training and testing sets
+train_texts, test_texts, train_labels, test_labels = train_test_split(
+    df['description'].tolist(),
+    df[['Library', 'Benchmark', 'Service', 'Workflow', 'Other']].values,
+    test_size=0.3,
+    random_state=42
 )
-model.train()
 
-# Step 7: Define optimizer and loss
-optimizer = AdamW(model.parameters(), lr=1e-5)
-loss_fn = torch.nn.BCEWithLogitsLoss()
+# Initialize the DistilBERT tokenizer
+tokenizer = DistilBertTokenizerFast.from_pretrained("distilbert-base-uncased")
 
-# Step 8: Training loop (for simplicity, one epoch)
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-model.to(device)
+# Tokenize the text
+train_encodings = tokenizer(list(map(str, train_texts)), truncation=True, padding=True, max_length=512)
+test_encodings = tokenizer(list(map(str, test_texts)), truncation=True, padding=True, max_length=512)
 
-for epoch in range(1):
-    for batch in dataloader:
-        optimizer.zero_grad()
-        input_ids = batch['input_ids'].to(device)
-        attention_mask = batch['attention_mask'].to(device)
-        labels = batch['labels'].to(device)
+# Step 2: Create a PyTorch Dataset
+class MultiLabelDataset(torch.utils.data.Dataset):
+    def __init__(self, encodings, labels):
+        self.encodings = encodings
+        self.labels = labels
 
-        outputs = model(input_ids, attention_mask=attention_mask)
-        loss = loss_fn(outputs.logits, labels)
-        loss.backward()
-        optimizer.step()
-        print(f"Loss: {loss.item()}")
+    def __getitem__(self, idx):
+        item = {key: torch.tensor(val[idx]) for key, val in self.encodings.items()}
+        item['labels'] = torch.tensor(self.labels[idx], dtype=torch.float)
+        return item
 
-# Step 9: Evaluation (on the same dataset for simplicity)
-model.eval()
-preds, true_labels = [], []
+    def __len__(self):
+        return len(self.labels)
 
-with torch.no_grad():
-    for batch in dataloader:
-        input_ids = batch['input_ids'].to(device)
-        attention_mask = batch['attention_mask'].to(device)
-        labels = batch['labels'].to(device)
+train_dataset = MultiLabelDataset(train_encodings, train_labels)
+test_dataset = MultiLabelDataset(test_encodings, test_labels)
 
-        outputs = model(input_ids, attention_mask=attention_mask)
-        preds.extend(torch.sigmoid(outputs.logits).cpu().numpy())
-        true_labels.extend(labels.cpu().numpy())
+# Step 3: Define the Model
+model = DistilBertForSequenceClassification.from_pretrained("distilbert-base-uncased", num_labels=5)
 
-# Thresholding and metrics
-threshold = 0.5
-preds = np.array(preds) > threshold
-accuracy = accuracy_score(np.array(true_labels), preds)
-f1 = f1_score(np.array(true_labels), preds, average='micro')
+# Step 4: Set Up Training Arguments and Trainer
+training_args = TrainingArguments(
+    output_dir='./results_classifier',
+    evaluation_strategy="epoch",
+    per_device_train_batch_size=8,
+    per_device_eval_batch_size=8,
+    num_train_epochs=10,
+    weight_decay=0.01,
+    logging_dir='./logs'
+)
 
-print(f"Accuracy: {accuracy}")
-print(f"F1 Score: {f1}")
+# Define the Trainer
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=train_dataset,
+    eval_dataset=test_dataset
+)
+
+# Step 5: Train the Model
+trainer.train()
+
+# Step 6: Evaluate the Model
+# Adjust threshold to see if it improves results
+THRESHOLD = 0.3  # Experiment with different threshold values
+predictions = trainer.predict(test_dataset)
+preds = torch.sigmoid(torch.tensor(predictions.predictions)).numpy() > THRESHOLD  # Binarize predictions at adjusted threshold
+
+# Calculate metrics
+print(classification_report(test_labels, preds, target_names=['Library', 'Benchmark', 'Service', 'Workflow', 'Other'], zero_division=0))
+
+model.save_pretrained('multilabel_software_classifier')
+tokenizer.save_pretrained('multilabel_software_classifier')
